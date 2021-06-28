@@ -1,4 +1,4 @@
-# WeatherApp
+# E-Commerce App
 # DESCRIPTION
 ### In this assigment I created a E-Commerce Application. 
 ### This is some of the requirements:
