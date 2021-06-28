@@ -18,7 +18,7 @@ GITHUB Repository:
 https://github.com/benjimosso/E-Commerce
 
 Video Publication:
-https://benjimosso.github.io/WeatherApp/
+https://drive.google.com/file/d/1mLa99Rd_JHprB5YuRX6BwhrfUAGY1bic/view?usp=sharing
 
 ## Installation :computer:
 **To install necesary dependencies, run the following command:**
